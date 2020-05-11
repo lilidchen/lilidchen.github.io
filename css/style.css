@@ -111,6 +111,10 @@ ol {
 ul {
     text-align: center;
     list-style-position: inside;
+	margin: 0;
+	color: #111111;
+	font-weight: 400;
+	font-family: "Quantico", sans-serif;    
 }
 
 table, th, td {
