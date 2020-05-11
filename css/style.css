@@ -113,6 +113,14 @@ ul {
     list-style-position: inside;
 }
 
+table, th, td {
+	border: 5px solid black;
+	margin: 0;
+	color: #111111;
+	font-weight: 400;
+	font-family: "Quantico", sans-serif;  
+}
+
 /*---------------------
   Helper CSS
 -----------------------*/
