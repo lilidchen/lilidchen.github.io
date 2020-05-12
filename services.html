@@ -88,7 +88,7 @@
                         <div class="col-lg-12">
                             <div class="hs-text">
                                 <style scoped>
-.hs-item .hs-list ul,
+ul,
 ol {
     list-style: none;
     counter-reset: any-name;
@@ -98,18 +98,18 @@ ul {
     list-style-position: inside;  
 }
 
-.hs-item .hs-list li {
+li {
     counter-increment: any-name;
 }
 
-.hs-item .hs-list li:before {
+li:before {
     content: counter(any-name);
 }
 
-.hs-item .hs-list li {
+li {
     margin-bottom: 5px;
 }
-.hs-item .hs-list li:before{
+li:before{
     margin-right: 0.8rem;
     background: black;
     border-radius: 50%;
