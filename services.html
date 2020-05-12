@@ -86,8 +86,45 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="hs-list">
-                                <h2>We offer 360 virtual tour services to showcase any of your real estate listings!<br>
+                            <div class="hs-text">
+                                <style scoped>
+.hs-item .hs-list ul,
+ol {
+    list-style: none;
+    counter-reset: any-name;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;  
+}
+
+.hs-item .hs-list li {
+    counter-increment: any-name;
+}
+
+.hs-item .hs-list li:before {
+    content: counter(any-name);
+}
+
+.hs-item .hs-list li {
+    margin-bottom: 5px;
+}
+.hs-item .hs-list li:before{
+    margin-right: 0.8rem;
+    background: black;
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    padding-top: 0.4rem;
+    text-align: center;
+    display:inline-block;
+    box-sizing: border-box;
+}                                    
+                                </style>
+                                <h2>We offer 360 virtual tour services to showcase any of your real estate listings!
+                            </h2>
+                                <br>
                                     <br>
                                 How it works:
                                 <ol>
@@ -98,10 +135,11 @@
                                     Your custom 360 virtual tour is ready to share in <em> a week </em>!
                                   </li>                          
                                 </ol>                            
-                                </h2>
+                                <
                                 <br>
                                 <br>
                                 <a href="#" class="primary-btn">Sample 360 tour from Matterport</a>
+                            
                             </div>
                         </div>
                     </div>

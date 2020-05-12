@@ -579,40 +579,6 @@ table, th, td {
 	opacity: 0;
 }
 
-.hs-item .hs-list ul,
-ol {
-	list-style: none;
-	counter-reset: any-name;
-}
-ul {
-    text-align: center;
-    list-style-position: inside;  
-}
-
-.hs-item .hs-list li {
-	counter-increment: any-name;
-}
-
-.hs-item .hs-list li:before {
-	content: counter(any-name);
-}
-
-.hs-item .hs-list li {
-	margin-bottom: 5px;
-}
-.hs-item .hs-list li:before{
-	margin-right: 0.8rem;
-	background: black;
-	border-radius: 50%;
-	color: white;
-	width: 2rem;
-	height: 2rem;
-	padding-top: 0.4rem;
-	text-align: center;
-	display:inline-block;
-	box-sizing: border-box;
-}
-
 .hs-item .hs-text .primary-btn {
 	position: relative;
 	top: 100px;
