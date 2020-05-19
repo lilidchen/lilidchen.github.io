@@ -187,8 +187,8 @@ table, th, td {
 .circle li:before{
     content: counter(list-counter);
     counter-increment: list-counter;
-    width: 1em;
-    height: 1em;
+    width: 2em;
+    height: 2em;
     padding: .5em;
     margin-right: 1em;
     border-radius: 50%;
@@ -197,7 +197,7 @@ table, th, td {
     color: #fff;
     font-family: arial;
     font-weight: bold;
-    text-align: left;
+    text-align: center;
     display: inline-block;
     
 }
