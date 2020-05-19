@@ -191,7 +191,7 @@ table, th, td {
     counter-increment: list-counter;
     width: 2em;
     height: 2em;
-    padding: 50em;
+    /*padding: 50em;*/
     margin-top: : 50em;
     border-radius: 50%;
     border: .25em solid #ccc;
