@@ -183,6 +183,8 @@ table, th, td {
 }
 .circle li{
     /*margin: 1.5em 0;    */
+	vertical-align:middle;   
+
 }
 .circle li:before{
     content: counter(list-counter);
@@ -199,6 +201,7 @@ table, th, td {
     font-weight: bold;
     text-align: center;
     display: inline-block;
+    vertical-align:middle;   
     
 }
 /*---------------------
