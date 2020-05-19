@@ -184,7 +184,9 @@ table, th, td {
 .circle li{
     /*margin: 1.5em 0;    */
 	vertical-align:middle;   
-
+	margin: 0 0 0 1em;
+	padding: 0 0 0 1em;
+	position: relative;	
 }
 .circle li:before{
     content: counter(list-counter);
