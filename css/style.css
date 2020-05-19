@@ -184,16 +184,14 @@ table, th, td {
 .circle li{
     /*margin: 1.5em 0;    */
 	vertical-align:middle;   
-	margin: 0 0 0 1em;
-	padding: 0 0 0 1em;
-	position: relative;	
+
 }
 .circle li:before{
     content: counter(list-counter);
     counter-increment: list-counter;
     width: 2em;
     height: 2em;
-    padding: 0.5em;
+    /*padding: 50em;*/
     margin-top: : 1em;
     border-radius: 50%;
     border: .25em solid #ccc;
