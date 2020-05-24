@@ -180,6 +180,8 @@ table, th, td {
     counter-reset: list-counter;
     list-style: none;
     float:center;
+    margin-left: 0;
+    padding-left: 26px;    
 }
 .circle li{
     /*margin: 1.5em 0;    */
