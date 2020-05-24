@@ -582,6 +582,8 @@ table, th, td {
 	-ms-flex-align: center;
 	align-items: center;
 	text-align: center;
+    overflow-y:scroll; 
+    position:relative;
 }
 
 .hs-item .hs-text h2 {
