@@ -180,10 +180,12 @@ table, th, td {
     counter-reset: list-counter;
     list-style: none;
     float:center;
+    padding-left:0;
 }
 .circle li{
     /*margin: 1.5em 0;    */
-	vertical-align:middle;   
+	vertical-align:middle;
+ 	list-style-position:inside	
 
 }
 .circle li:before{
