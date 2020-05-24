@@ -179,7 +179,7 @@ table, th, td {
 .circle{
     counter-reset: list-counter;
     list-style: none;
-    float:center;
+    float:left;
     margin-left: 0;
     padding-left: 26px;    
 }
