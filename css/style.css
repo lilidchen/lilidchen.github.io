@@ -574,7 +574,7 @@ table, th, td {
 }
 
 .hs-item {
-	height: 8000px;
+	height: 4000px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
