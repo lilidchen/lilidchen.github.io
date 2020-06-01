@@ -615,7 +615,7 @@ table, th, td {
 	text-transform: uppercase;
 	margin-bottom: 20px;
 	position: relative;
-	top: 200px;
+	top: 100px;
 	-webkit-transition: all 0.3s ease-out;
 	-o-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
