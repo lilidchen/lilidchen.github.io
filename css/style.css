@@ -602,7 +602,7 @@ table, th, td {
 }
 
 
-.hs-item .hs-text h3 {
+/*.hs-item .hs-text h3 {
 	font-size: 40px;
 	color: #ffffff;
 	font-weight: 700;
@@ -614,8 +614,9 @@ table, th, td {
 	transition: all 0.3s ease-out;
 	opacity: 0;
 }
-
+*/
 .hs-item .hs-text p {
+	font-size: 40px;	
 	color: #ffffff;
 	line-height: 30px;
 	margin-bottom: 32px;
