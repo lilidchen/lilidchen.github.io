@@ -153,8 +153,9 @@ table, th, td {
 
 /* Grey list item */
 .price .grey {
-  background-color: #eee;
+  background-color: #808080;
   font-size: 20px;
+  color: white;
 }
 
 /* The "Sign Up" button */
