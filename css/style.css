@@ -158,6 +158,13 @@ table, th, td {
   color: white;
 }
 
+/* Black list item */
+.price .black {
+  background-color: #000000;
+  font-size: 20px;
+  color: white;
+}
+
 /* The "Sign Up" button */
 .button {
   background-color: #4CAF50;
