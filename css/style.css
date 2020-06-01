@@ -669,7 +669,7 @@ table, th, td {
 }
 
 .services-item h3 {
-	color: #191039;
+	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -1463,7 +1463,7 @@ table, th, td {
 }
 
 .pricing-item .pi-title h3 {
-	color: #111111;
+	color: #ffffff;
 	font-weight: 700;
 	padding-bottom: 32px;
 	text-transform: uppercase;
@@ -2418,7 +2418,7 @@ table, th, td {
 }
 
 .contact-text h3 {
-	color: #111111;
+	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 15px;
@@ -2490,7 +2490,7 @@ table, th, td {
 }
 
 .contact-form h3 {
-	color: #111111;
+	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 35px;
