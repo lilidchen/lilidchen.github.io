@@ -623,6 +623,18 @@ table, th, td {
 }
 */
 .hs-item .hs-text p {
+	font-size: 40px;
+	color: #ffffff;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	position: relative;
+	top: 100px;
+	-webkit-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	opacity: 0;
+	/*	
 	font-size: 40px;	
 	color: #ffffff;
 	line-height: 30px;
@@ -632,7 +644,7 @@ table, th, td {
 	-webkit-transition: all 0.5s ease-out;
 	-o-transition: all 0.5s ease-out;
 	transition: all 0.5s ease-out;
-	opacity: 0;
+	opacity: 0;*/
 }
 
 .hs-item .hs-text .primary-btn {
