@@ -647,6 +647,7 @@ table, th, td {
 	-o-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
 	opacity: 0;
+	line-height: 10pt;
 	/*	
 	font-size: 40px;	
 	color: #ffffff;
