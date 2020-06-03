@@ -588,8 +588,8 @@ table, th, td {
 	display: flex;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
-	align-items: top;
-	text-align: top;
+	align-items: start;
+	text-align: center;
     overflow-y:scroll; 
     position:relative;
 }
