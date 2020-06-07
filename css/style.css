@@ -596,7 +596,7 @@ table, th, td {
 
 .hs-item .hs-text h2 {
 	font-size: 60px;
-	color: #A9A9A9;
+	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 20px;
@@ -610,7 +610,7 @@ table, th, td {
 
 .hs-item .hs-text h3 {
 	font-size: 60px;
-	color: #A9A9A9;
+	color: #ffffff;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 20px;
@@ -638,7 +638,7 @@ table, th, td {
 */
 .hs-item .hs-text p {
 	font-size: 40px;
-	color: #A9A9A9;
+	color: #ffffff;
 	font-weight: 700;
 	margin-bottom: 20px;
 	position: relative;
